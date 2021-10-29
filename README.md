@@ -1,6 +1,6 @@
 # Benjamin Krippner
 
-Hello! I am a german long time developer, i really like to work on big projects and learn new stuff. I have worked on many websites and apps. As well on games. I dont mind front-, back-, or database stuff. Its great when all comes together anyway, and when you know how to do it it's even better. 
+I have worked on many websites and apps. As well on games. I dont mind front-, back-, or database stuff. Its great when all comes together anyway, and when you know how to do it it's even better. 
 
 I just like to develop new stuff :)
 
